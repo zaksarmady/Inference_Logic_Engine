@@ -15,9 +15,10 @@ Inference Engine for propositional logic in software based on the Truth Table (T
 ## Missing Features
 * Knowledge base Truth table does not support disjunction ||,  parenthesis (), not ~, Biconditional <=>. 
 * The only symbols supported are "&" (and) and "=>" (implies). 
-	
+
+## Setup	
 The program is run through a command line interface. Below is an example of how to run it:
-<filename> <Logic Method> <test file>
+$ <filename> <Logic Method> <test file>
 
 For example: iEngine.exe TT test test4.txt
 
