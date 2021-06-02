@@ -1,0 +1,4 @@
+TELL
+a&b => c; h2; e&d => a; f&g => b; e; w; t; d; f; g; h1; h5; x&y => z; y; p&o => x; u&i => p; m&n => o; u&i => m; n; u; i; c&v => g; a&s => v; k&t=>s; s; b&c => t; f; d; p4; p5; c; p9&w => j; r; q; lm&as => p9; as; zx => lm; zx; zx => rew; key&b => keyboard; buttons&knobs => key; keyboard&s => keyboards; buttons; knobs; a&s => as; d&f => df; as&df => asdf; q&w => qw; e&r => er; qw&er => qwer; asdf&qwer => asdfqwer;
+ASK
+j
