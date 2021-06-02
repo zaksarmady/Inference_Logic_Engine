@@ -18,10 +18,10 @@ Inference Engine for propositional logic in software based on the Truth Table (T
 
 ## Setup	
 The program is run through a command line interface. Below is an example of how to run it:
-$ <filename> <Logic Method> <test file>
+``` <filename> <Logic Method> <test file> ``` 
 
-For example: iEngine.exe TT test test4.txt
+For example: ``` iEngine.exe TT test test4.txt ``` 
 
-The .exe file needed to execute the program is located in \...Inference_Engine\bin\Debug\netcoreapp3.1
+The .exe file needed to execute the program is located in ``` \...Inference_Engine\bin\Debug\netcoreapp3.1 ``` 
 	
-If a user wants to edit or add more test files, they can be found in ...\Inference_Engine\tests
+If a user wants to edit or add more test files, they can be found in ``` ...\Inference_Engine\tests ``` 
